@@ -1,5 +1,5 @@
 {
-    "name": "krisseck/detect-cms",
+    "name": "heyrocker/detectcms",
     "description": "PHP Library for detecting CMS.",
     "keywords": ["detect", "cms"],
     "type": "library",
